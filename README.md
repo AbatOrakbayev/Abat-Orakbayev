@@ -53,11 +53,21 @@ Portfolio
 
 ---
 
-### 📢 **Men bilan bog‘lanish**
-💼 **Upwork**: [Mening Upwork Profilim](https://www.upwork.com/freelancers/your-upwork-profile)  
-✉️ **Email**: orakbayevabat@gmail.com  
-💬 **Telegram**: [@MathInsight](https://t.me/MathInsight)  
-🌍 **GitHub portfolio**: [github.com/AbatOrakbayev](https://github.com/AbatOrakbayev)  
+## 📢 Men bilan bog‘laning  
+
+[![Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://abat-orakbayev.dev)  
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/abat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abat-orakbayev)  
+[![X (Twitter)](https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=twitter)](https://x.com/your-twitter-handle)  
+
+### 🔥 **Kod yozishni yaxshi ko‘raman!**
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Challenges-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-leetcode-profile)  
+[![Robocontest](https://img.shields.io/badge/Robocontest-Competitive%20Programming-red?style=for-the-badge)](https://robocontest.uz/users/your-username)  
+
+### 💬 **Telegram orqali bog‘laning**
+[![Telegram](https://img.shields.io/badge/Telegram-Chat%20With%20Me-blue?style=for-the-badge&logo=telegram)](https://t.me/MathInsight)  
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/MathInsight)  
+ 
 
 ---
 
