@@ -55,7 +55,7 @@ Portfolio
 
 ### 📢 **Men bilan bog‘lanish**
 💼 **Upwork**: [Mening Upwork Profilim](https://www.upwork.com/freelancers/your-upwork-profile)  
-✉️ **Email**: your.email@gmail.com  
+✉️ **Email**: orakbayevabat@gmail.com  
 💬 **Telegram**: [@MathInsight](https://t.me/MathInsight)  
 🌍 **GitHub portfolio**: [github.com/AbatOrakbayev](https://github.com/AbatOrakbayev)  
 
