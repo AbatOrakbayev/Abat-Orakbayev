@@ -62,7 +62,7 @@ Portfolio
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Me-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/your-user-id)   
 
 ### 🔥 **Kod yozishni yaxshi ko‘raman!**
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Challenges-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-leetcode-profile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Challenges-orange?style=for-the-badge&logo=leetcode)]([https://leetcode.com/your-leetcode-profile](https://leetcode.com/u/Abat_Orakbayev/))  
 [![Robocontest](https://img.shields.io/badge/Robocontest-Competitive%20Programming-red?style=for-the-badge)](https://robocontest.uz/users/your-username)  
 
 ### 💬 **Telegram orqali bog‘laning**
