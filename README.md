@@ -58,7 +58,8 @@ Portfolio
 [![Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://abat-orakbayev.dev)  
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/abat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abat-orakbayev)  
-[![X (Twitter)](https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=twitter)](https://x.com/your-twitter-handle)  
+[![X (Twitter)](https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=twitter)](https://x.com/your-twitter-handle)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Me-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/your-user-id)   
 
 ### 🔥 **Kod yozishni yaxshi ko‘raman!**
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Challenges-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-leetcode-profile)  
